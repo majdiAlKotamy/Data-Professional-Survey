@@ -1,25 +1,23 @@
-# Project Sample-PowerBi Data Visualization
+# PowerBi Data Visualization Sample
 
 ## Data Professional Survey Breakdown Visualization (Power BI)
 
-This project explores survey data from data professionals and creates visualizations using Power BI to understand various aspects of their careers. 
+This project explores survey data and creates visualizations using Power BI to understand various aspects of their careers. 
 
 ### Visualizations Included:
 
-* **Average Salary by Job Title:** A bar chart will display the average salary across different job titles within the data set.
-* **Difficulty to Break into Data:** This visualization, likely a bar chart or a gauge chart, will depict the perceived difficulty of entering the data field, based on survey responses.
-* **Favorite Programming Language:** A pie chart or a bar chart will showcase the most popular programming languages among the surveyed data professionals. 
-* **Country of Survey Takers:** A world map will illustrate the geographical distribution of the survey participants.
-* **Survey Taker Count:** A simple card visual will display the total number of participants in the survey.
 * **Average Age of Survey Takers:** This visualization, likely a card or a simple value box, will represent the average age of the data professionals who participated in the survey.
-* **Percentage Happy with Salary & Work/Life Balance:** Two separate donut charts or pie charts will depict the proportion of respondents who expressed satisfaction with their salary and work-life balance, respectively.
-
-**Note:** The choice of specific chart types may be subject to change based on data distribution and best practices for presenting the information.
+* **Survey Taker Count:** A simple card visual will display the total number of participants in the survey.
+* **Country of Survey Takers:** A filled map will illustrate the geographical distribution of the survey participants.
+* **Favorite Programming Language:** A Clustered column chart will showcase the most popular programming languages among the surveyed data professionals. 
+* **Average Salary by Job Title:** A Stacked bar chart will display the average salary across different job titles within the data set.
+* **Difficulty to Break into Data:** A Dount bar chart will depict the perceived difficulty of entering the data field, based on survey responses.
+* **Percentage Happy with Salary & Work/Life Balance:** Two separate Gauge charts will depict the proportion of respondents who expressed satisfaction with their salary and work-life balance, respectively.
 
 ### Getting Started with Visualizations:
 
 1. **Import Data:**  
-   - Launch Power BI Desktop and import the data containing the survey responses. This could be a CSV or Excel file.
+   - Launch Power BI Desktop and import the data containing the survey responses after you clean it. This could be a CSV or Excel file.
 
 2. **Create Visualizations:**
    - Drag and drop relevant data fields from the "Fields" pane onto the canvas to create each visualization. 
