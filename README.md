@@ -1,4 +1,4 @@
-# Project Sample - using PowerBi in Data Visualization
+# Project Sample-PowerBi Data Visualization
 
 ## Data Professional Survey Breakdown Visualization (Power BI)
 
