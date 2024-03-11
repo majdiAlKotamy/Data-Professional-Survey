@@ -1,6 +1,6 @@
 # PowerBi Data Visualization Sample
 
-### Data Professional Survey Breakdown Visualization (Power BI)
+### Data Professional Survey Breakdown Visualization
 
 This approach provides a basic framework for creating data visualizations in Power BI to explore the findings from the "Data Professional Survey Breakdown" project.
 
