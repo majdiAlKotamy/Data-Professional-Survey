@@ -1,4 +1,4 @@
-# PowerBi Data Visualization Sample
+# PowerBI Data Visualization Sample
 
 ### Data Professional Survey Breakdown Visualization
 
